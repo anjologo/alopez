@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ejercicio de introduccion a Htlm en OpenBootCamp</title>
+</head>
+<body>
+<!---este es mi primer comentario de dos lineas-->
+<!--aprendiendo a documentar mi codigo con OpenBootCamp-->
+
+<h4>
+	<ul>
+		<li>
+			<a href="https://www.youtube.com/watch?v=HbNAqZP34jo">Franco Escamilla miedos</a>
+		</li>
+		<li>
+			<a href= "https://www.youtube.com/watch?v=MW4fASDkQXA&t=316s">Elwynn Forest – Music & Ambience – World of Warcraft</a>
+		</li>
+		<li>
+			<a href="https://www.youtube.com/watch?v=uX6q_Qbq4hI" >
+¿El secreto está EN LA PIZZA? 🍕⚠️ | M&C🔎💄| AbrilDoesMakeup ♡ <
+		</li>
+
+	</ul>
+</h4>
+</body>
+</html>
